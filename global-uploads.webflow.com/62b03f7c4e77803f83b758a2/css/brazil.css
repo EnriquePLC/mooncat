@@ -32,6 +32,10 @@ video {
   display: inline-block;
   vertical-align: baseline;
 }
+.newsize{
+  font-size: 15px;
+  color: yellow;
+}
 audio:not([controls]) {
   display: none;
   height: 0;
